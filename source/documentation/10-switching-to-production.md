@@ -331,6 +331,12 @@ Click _Save configuration_.
 
 Contact us at [govuk-pay-support@digital.cabinet-office.gov.uk](govuk-pay-support@digital.cabinet-office.gov.uk) if you have any questions.
 
+### Set up 3D Secure for Smartpay
+
+To enable 3D Secure payment authentication, sign in to the [GOV.UK Pay self-service admin site](https://selfservice.payments.service.gov.uk/), click _3D Secure_ and turn 3D Secure on.
+
+3D Secure should be enabled by default on the [Smartpay admin site](LINK). To check this, on the homepage, go to XYZ AND SELECT ABC.
+
 ## Emergency contact details
 
 Your service manager should have been given details of emergency contact methods to reach our support team in case of an urgent problem (for example, if you suspect that fraudulent transactions are being made on your account).
